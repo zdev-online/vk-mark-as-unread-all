@@ -1,5 +1,7 @@
 # VK Mark As Unread All
 
+![Screenshot](screenshot.png)
+
 ## Установка
 
 **Требуется Node.js 16.15 или новее.**
